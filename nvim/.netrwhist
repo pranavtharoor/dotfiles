@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/media/pranav/5474469E7446832A/Coding/c3g/micm-project-match'
